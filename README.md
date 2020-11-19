@@ -1,5 +1,3 @@
-![Rajat's Github Stats](https://github-readme-stats.vercel.app/api?username=rt4914)
-
 <a href="https://github.com/oppia/oppia-android/pulls">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/oppia/oppia-android?color=0088ff" />
 </a>
