@@ -5,3 +5,4 @@
 </a>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=oppia&repo=oppia-android&show_owner=true)
+
