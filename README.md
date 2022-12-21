@@ -6,7 +6,7 @@
 - 🤔 I'm interested in developing and managing products.
 - 💬 I am also learning React these days.
 - :movie_camera: Have a look at some of my Youtube videos [here](https://www.youtube.com/channel/UC0iJuDcwwuipQ-gwlE2vjzw).
-- :book: Read some of posts on https://dev.to/rajatt
+- :book: Read some of my posts on https://dev.to/rajatt
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have done road-trip across India covering all indian states. 56 DAYS | 16500+ Kms | [Instagram](https://www.instagram.com/stories/highlights/17992782703435764/)  
 
